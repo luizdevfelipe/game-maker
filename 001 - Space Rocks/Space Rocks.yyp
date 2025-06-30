@@ -48,6 +48,8 @@
     {"id":{"name":"obj_rock","path":"objects/obj_rock/obj_rock.yy",},},
     {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
     {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
+    {"id":{"name":"Big_Explosion_Distant","path":"sounds/Big_Explosion_Distant/Big_Explosion_Distant.yy",},},
+    {"id":{"name":"Galactic_Bass___John_Patitucci","path":"sounds/Galactic_Bass___John_Patitucci/Galactic_Bass___John_Patitucci.yy",},},
     {"id":{"name":"spr_bullet","path":"sprites/spr_bullet/spr_bullet.yy",},},
     {"id":{"name":"spr_button","path":"sprites/spr_button/spr_button.yy",},},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
