@@ -9,7 +9,7 @@ if (global.paused)
 player_movement();
 
 // Execute function that keeps the player in the room.
-keep_in_room();
+//keep_in_room();
 
 // Set depth to minus our y position.
 // This is also done in enemies, with the
