@@ -1,0 +1,1 @@
+#macro WORLD_SIZE 10000

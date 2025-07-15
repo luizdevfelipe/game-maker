@@ -99,6 +99,7 @@
     {"id":{"name":"attack_trail","path":"scripts/attack_trail/attack_trail.yy",},},
     {"id":{"name":"get_upgrades","path":"scripts/get_upgrades/get_upgrades.yy",},},
     {"id":{"name":"keep_in_room","path":"scripts/keep_in_room/keep_in_room.yy",},},
+    {"id":{"name":"MACROS","path":"scripts/MACROS/MACROS.yy",},},
     {"id":{"name":"next_wave","path":"scripts/next_wave/next_wave.yy",},},
     {"id":{"name":"pause","path":"scripts/pause/pause.yy",},},
     {"id":{"name":"player_movement","path":"scripts/player_movement/player_movement.yy",},},
