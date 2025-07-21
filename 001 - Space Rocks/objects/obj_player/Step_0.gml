@@ -15,4 +15,11 @@ move_wrap(true, true, 0);
 if mouse_check_button_pressed(mb_left) {
 	instance_create_layer(x, y, "Instances", obj_bullet);
 	audio_play_sound(Big_Explosion_Distant, 0, false, 1, 0, random_range(0.8, 1.2));
+	
+	if currentPowerUP == Powerups.SPREAD {
+		var bullet = instance_create_layer(x, y, "Instances", obj_bullet);
+		bullet.direction += 10;
+		bullet = instance_create_layer(x, y, "Instances", obj_bullet);
+		bullet.direction -= 10;
+	}
 }
