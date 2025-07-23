@@ -129,6 +129,7 @@
     {"id":{"name":"rm_level_2","path":"rooms/rm_level_2/rm_level_2.yy",},},
     {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
     {"id":{"name":"Collisions","path":"scripts/Collisions/Collisions.yy",},},
+    {"id":{"name":"coin_collected","path":"sequences/coin_collected/coin_collected.yy",},},
     {"id":{"name":"seq_coin","path":"sequences/seq_coin/seq_coin.yy",},},
     {"id":{"name":"seq_game_hud","path":"sequences/seq_game_hud/seq_game_hud.yy",},},
     {"id":{"name":"seq_game_over","path":"sequences/seq_game_over/seq_game_over.yy",},},
