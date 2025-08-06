@@ -1,0 +1,1 @@
+points = round(2 + (score / 10));
