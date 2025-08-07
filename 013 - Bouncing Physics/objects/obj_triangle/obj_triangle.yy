@@ -9,7 +9,10 @@
     "name":"points",
     "path":"folders/Objects/points.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_point_parent",
+    "path":"objects/obj_point_parent/obj_point_parent.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.0,
